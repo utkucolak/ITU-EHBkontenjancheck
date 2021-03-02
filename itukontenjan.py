@@ -25,7 +25,7 @@ try:
             else:
                 pass
     
-        time.sleep(20)
+        time.sleep(900)
 except donguKir:
     pass
 
